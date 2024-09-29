@@ -1,0 +1,14 @@
+sudo ln -s $(pwd)/Nmap/nmap.exe /usr/bin/nmap
+sudo ln -s $(pwd)/Nmap/ncat.exe /usr/bin/ncat
+sudo ln -s $(pwd)/amass.exe /usr/bin/amass
+sudo ln -s $(pwd)/hydra/hydra.exe /usr/bin/hydra
+sudo ln -s $(pwd)/rustscan.exe /usr/bin/rustscan
+sudo ln -s $(pwd)/ffuf.exe /usr/bin/ffuf
+sudo ln -s $(pwd)/subfinder.exe /usr/bin/subfinder
+sudo ln -s $(pwd)/httpx.exe /usr/bin/httpx
+sudo ln -s $(pwd)/nuclei.exe /usr/bin/nuclei
+sudo ln -s $(pwd)/vaf.exe /usr/bin/vaf
+sudo ln -s $(pwd)/webanalyze.exe /usr/bin/webanalyze
+sudo ln -s $(pwd)/s3scanner.exe /usr/bin/s3scanner
+sudo ln -s $(pwd)/gau.exe /usr/bin/gau
+sudo ln -s $(pwd)/qsreplace.exe /usr/bin/qsreplace
